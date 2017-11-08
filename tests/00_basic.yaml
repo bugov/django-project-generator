@@ -1,0 +1,5 @@
+Post:
+  Model:
+    name: Char
+    text: Text
+
